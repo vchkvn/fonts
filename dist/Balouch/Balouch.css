@@ -1,0 +1,77 @@
+@font-face {
+  font-family: "Balouch";
+  font-style: normal;
+  font-weight: 100;
+  src:
+    url("BalouchThin.woff2") format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/
+    url("BalouchThin.woff") format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url("BalouchThin.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Balouch";
+  font-style: normal;
+  font-weight: 300;
+  src:
+    url("BalouchLight.woff2") format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/
+    url("BalouchLight.woff") format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url("BalouchLight.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Balouch";
+  font-style: normal;
+  font-weight: 400;
+  src:
+    url("BalouchRegular.woff2") format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/
+    url("BalouchRegular.woff") format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url("BalouchRegular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Balouch";
+  font-style: normal;
+  font-weight: 500;
+  src:
+    url("BalouchMedium.woff2") format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/
+    url("BalouchMedium.woff") format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url("BalouchMedium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Balouch";
+  font-style: normal;
+  font-weight: 600;
+  src:
+    url("BalouchBold.woff2") format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/
+    url("BalouchBold.woff") format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url("BalouchBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Balouch";
+  font-style: normal;
+  font-weight: 700;
+  src:
+    url("BalouchExtraBold.woff2") format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/
+    url("BalouchExtraBold.woff") format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url("BalouchExtraBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Balouch";
+  font-style: normal;
+  font-weight: 800;
+  src:
+    url("BalouchBlack.woff2") format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/
+    url("BalouchBlack.woff") format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url("BalouchBlack.ttf") format("truetype");
+}
