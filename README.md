@@ -8,6 +8,7 @@
 - [Vazir](#Vazir)
 - [Sahel](#Sahel)
 - [Estedad](#Estedad)
+- [Balouch](#Balouch)
 - [URWGeometricArabic](#URWGeometricArabic)
 - [Reset CSS](#Reset-CSS)
 
@@ -17,7 +18,7 @@ Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 
 ```html
 <link
-  href="https://cdn.jsdelivr.net/gh/AshkanWebDev/fonts@main/dist/FontAwesome/FontAwesome.css"
+  href="https://cdn.jsdelivr.net/gh/vchkvn/fonts@main/dist/FontAwesome/FontAwesome.css"
   rel="stylesheet"
   type="text/css"
 />
@@ -25,7 +26,25 @@ Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 
 ```html
 <link
-  href="https://cdn.jsdelivr.net/gh/AshkanWebDev/fonts@main/dist/FontAwesome/FontAwesome.min.css"
+  href="https://cdn.jsdelivr.net/gh/vchkvn/fonts@main/dist/FontAwesome/FontAwesome.min.css"
+  rel="stylesheet"
+  type="text/css"
+/>
+```
+
+Link fonts from the [esm.sh](https://esm.sh/) CDN:
+
+```html
+<link
+  href="https://esm.sh/gh/vchkvn/fonts/dist/FontAwesome/FontAwesome.css"
+  rel="stylesheet"
+  type="text/css"
+/>
+```
+
+```html
+<link
+  href="https://esm.sh/gh/vchkvn/fonts/dist/FontAwesome/FontAwesome.min.css"
   rel="stylesheet"
   type="text/css"
 />
@@ -63,7 +82,7 @@ Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 
 ```html
 <link
-  href="https://cdn.jsdelivr.net/gh/AshkanWebDev/fonts@main/dist/IRANYekan/IRANYekan.css"
+  href="https://cdn.jsdelivr.net/gh/vchkvn/fonts@main/dist/IRANYekan/IRANYekan.css"
   rel="stylesheet"
   type="text/css"
 />
@@ -71,7 +90,25 @@ Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 
 ```html
 <link
-  href="https://cdn.jsdelivr.net/gh/AshkanWebDev/fonts@main/dist/IRANYekan/IRANYekan.min.css"
+  href="https://cdn.jsdelivr.net/gh/vchkvn/fonts@main/dist/IRANYekan/IRANYekan.min.css"
+  rel="stylesheet"
+  type="text/css"
+/>
+```
+
+Link fonts from the [esm.sh](https://esm.sh/) CDN:
+
+```html
+<link
+  href="https://esm.sh/gh/vchkvn/fonts/dist/IRANYekan/IRANYekan.css"
+  rel="stylesheet"
+  type="text/css"
+/>
+```
+
+```html
+<link
+  href="https://esm.sh/gh/vchkvn/fonts/dist/IRANYekan/IRANYekan.min.css"
   rel="stylesheet"
   type="text/css"
 />
@@ -93,7 +130,7 @@ Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 
 ```html
 <link
-  href="https://cdn.jsdelivr.net/gh/AshkanWebDev/fonts@main/dist/Shabnam/Shabnam.css"
+  href="https://cdn.jsdelivr.net/gh/vchkvn/fonts@main/dist/Shabnam/Shabnam.css"
   rel="stylesheet"
   type="text/css"
 />
@@ -101,7 +138,25 @@ Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 
 ```html
 <link
-  href="https://cdn.jsdelivr.net/gh/AshkanWebDev/fonts@main/dist/Shabnam/Shabnam.min.css"
+  href="https://cdn.jsdelivr.net/gh/vchkvn/fonts@main/dist/Shabnam/Shabnam.min.css"
+  rel="stylesheet"
+  type="text/css"
+/>
+```
+
+Link fonts from the [esm.sh](https://esm.sh/) CDN:
+
+```html
+<link
+  href="https://esm.sh/gh/vchkvn/fonts/dist/Shabnam/Shabnam.css"
+  rel="stylesheet"
+  type="text/css"
+/>
+```
+
+```html
+<link
+  href="https://esm.sh/gh/vchkvn/fonts/dist/Shabnam/Shabnam.min.css"
   rel="stylesheet"
   type="text/css"
 />
@@ -123,7 +178,7 @@ Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 
 ```html
 <link
-  href="https://cdn.jsdelivr.net/gh/AshkanWebDev/fonts@main/dist/Vazir/Vazir.css"
+  href="https://cdn.jsdelivr.net/gh/vchkvn/fonts@main/dist/Vazir/Vazir.css"
   rel="stylesheet"
   type="text/css"
 />
@@ -131,7 +186,25 @@ Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 
 ```html
 <link
-  href="https://cdn.jsdelivr.net/gh/AshkanWebDev/fonts@main/dist/Vazir/Vazir.min.css"
+  href="https://cdn.jsdelivr.net/gh/vchkvn/fonts@main/dist/Vazir/Vazir.min.css"
+  rel="stylesheet"
+  type="text/css"
+/>
+```
+
+Link fonts from the [esm.sh](https://esm.sh/) CDN:
+
+```html
+<link
+  href="https://esm.sh/gh/vchkvn/fonts/dist/Vazir/Vazir.css"
+  rel="stylesheet"
+  type="text/css"
+/>
+```
+
+```html
+<link
+  href="https://esm.sh/gh/vchkvn/fonts/dist/Vazir/Vazir.min.css"
   rel="stylesheet"
   type="text/css"
 />
@@ -153,7 +226,7 @@ Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 
 ```html
 <link
-  href="https://cdn.jsdelivr.net/gh/AshkanWebDev/fonts@main/dist/Sahel/Sahel.css"
+  href="https://cdn.jsdelivr.net/gh/vchkvn/fonts@main/dist/Sahel/Sahel.css"
   rel="stylesheet"
   type="text/css"
 />
@@ -161,7 +234,25 @@ Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 
 ```html
 <link
-  href="https://cdn.jsdelivr.net/gh/AshkanWebDev/fonts@main/dist/Sahel/Sahel.min.css"
+  href="https://cdn.jsdelivr.net/gh/vchkvn/fonts@main/dist/Sahel/Sahel.min.css"
+  rel="stylesheet"
+  type="text/css"
+/>
+```
+
+Link fonts from the [esm.sh](https://esm.sh/) CDN:
+
+```html
+<link
+  href="https://esm.sh/gh/vchkvn/fonts/dist/Sahel/Sahel.css"
+  rel="stylesheet"
+  type="text/css"
+/>
+```
+
+```html
+<link
+  href="https://esm.sh/gh/vchkvn/fonts/dist/Sahel/Sahel.min.css"
   rel="stylesheet"
   type="text/css"
 />
@@ -183,7 +274,7 @@ Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 
 ```html
 <link
-  href="https://cdn.jsdelivr.net/gh/AshkanWebDev/fonts@main/dist/Estedad/Estedad.css"
+  href="https://cdn.jsdelivr.net/gh/vchkvn/fonts@main/dist/Estedad/Estedad.css"
   rel="stylesheet"
   type="text/css"
 />
@@ -191,7 +282,25 @@ Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 
 ```html
 <link
-  href="https://cdn.jsdelivr.net/gh/AshkanWebDev/fonts@main/dist/Estedad/Estedad.min.css"
+  href="https://cdn.jsdelivr.net/gh/vchkvn/fonts@main/dist/Estedad/Estedad.min.css"
+  rel="stylesheet"
+  type="text/css"
+/>
+```
+
+Link fonts from the [esm.sh](https://esm.sh/) CDN:
+
+```html
+<link
+  href="https://esm.sh/gh/vchkvn/fonts/dist/Estedad/Estedad.css"
+  rel="stylesheet"
+  type="text/css"
+/>
+```
+
+```html
+<link
+  href="https://esm.sh/gh/vchkvn/fonts/dist/Estedad/Estedad.min.css"
   rel="stylesheet"
   type="text/css"
 />
@@ -207,13 +316,13 @@ font-family: "Estedad FarsiNumerals", sans-serif;
 font-family: "Estedad WebFonts", sans-serif;
 ```
 
-## URWGeometricArabic[⬆](#quick-access)
+## Balouch[⬆](#quick-access)
 
 Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 
 ```html
 <link
-  href="https://cdn.jsdelivr.net/gh/AshkanWebDev/fonts@main/dist/URWGeometricArabic/URWGeometricArabic.css"
+  href="https://cdn.jsdelivr.net/gh/vchkvn/fonts@main/dist/Balouch/Balouch.css"
   rel="stylesheet"
   type="text/css"
 />
@@ -221,7 +330,69 @@ Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 
 ```html
 <link
-  href="https://cdn.jsdelivr.net/gh/AshkanWebDev/fonts@main/dist/URWGeometricArabic/URWGeometricArabic.min.css"
+  href="https://cdn.jsdelivr.net/gh/vchkvn/fonts@main/dist/Balouch/Balouch.min.css"
+  rel="stylesheet"
+  type="text/css"
+/>
+```
+
+Link fonts from the [esm.sh](https://esm.sh/) CDN:
+
+```html
+<link
+  href="https://esm.sh/gh/vchkvn/fonts/dist/Balouch/Balouch.css"
+  rel="stylesheet"
+  type="text/css"
+/>
+```
+
+```html
+<link
+  href="https://esm.sh/gh/vchkvn/fonts/dist/Balouch/Balouch.min.css"
+  rel="stylesheet"
+  type="text/css"
+/>
+```
+
+In the css code:
+
+```
+font-family: "Balouch","Noto Sans Arabic", sans-serif;
+```
+
+## URWGeometricArabic[⬆](#quick-access)
+
+Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
+
+```html
+<link
+  href="https://cdn.jsdelivr.net/gh/vchkvn/fonts@main/dist/URWGeometricArabic/URWGeometricArabic.css"
+  rel="stylesheet"
+  type="text/css"
+/>
+```
+
+```html
+<link
+  href="https://cdn.jsdelivr.net/gh/vchkvn/fonts@main/dist/URWGeometricArabic/URWGeometricArabic.min.css"
+  rel="stylesheet"
+  type="text/css"
+/>
+```
+
+Link fonts from the [esm.sh](https://esm.sh/) CDN:
+
+```html
+<link
+  href="https://esm.sh/gh/vchkvn/fonts/dist/URWGeometricArabic/URWGeometricArabic.css"
+  rel="stylesheet"
+  type="text/css"
+/>
+```
+
+```html
+<link
+  href="https://esm.sh/gh/vchkvn/fonts/dist/URWGeometricArabic/URWGeometricArabic.min.css"
   rel="stylesheet"
   type="text/css"
 />
@@ -239,7 +410,7 @@ Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 
 ```html
 <link
-  href="https://cdn.jsdelivr.net/gh/AshkanWebDev/fonts@main/dist/reset.css"
+  href="https://cdn.jsdelivr.net/gh/vchkvn/fonts@main/dist/reset.css"
   rel="stylesheet"
   type="text/css"
 />
@@ -247,7 +418,25 @@ Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 
 ```html
 <link
-  href="https://cdn.jsdelivr.net/gh/AshkanWebDev/fonts@main/dist/reset.min.css"
+  href="https://cdn.jsdelivr.net/gh/vchkvn/fonts@main/dist/reset.min.css"
+  rel="stylesheet"
+  type="text/css"
+/>
+```
+
+Link fonts from the [esm.sh](https://esm.sh/) CDN:
+
+```html
+<link
+  href="https://esm.sh/gh/vchkvn/fonts/dist/reset.css"
+  rel="stylesheet"
+  type="text/css"
+/>
+```
+
+```html
+<link
+  href="https://esm.sh/gh/vchkvn/fonts/dist/reset.min.css"
   rel="stylesheet"
   type="text/css"
 />
