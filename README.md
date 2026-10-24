@@ -357,7 +357,7 @@ Link fonts from the [esm.sh](https://esm.sh/) CDN:
 In the css code:
 
 ```
-font-family: "Balouch","Noto Sans Arabic", sans-serif;
+font-family: "Balouch", "Noto Sans Arabic", sans-serif;
 ```
 
 ## URWGeometricArabic[⬆](#quick-access)
